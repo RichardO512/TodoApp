@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RichardOmbrog/TodoApp.git/static/css/main.08437b8e.chunk.css",
-    "main.js": "/RichardOmbrog/TodoApp.git/static/js/main.8ff614d7.chunk.js",
-    "main.js.map": "/RichardOmbrog/TodoApp.git/static/js/main.8ff614d7.chunk.js.map",
-    "runtime-main.js": "/RichardOmbrog/TodoApp.git/static/js/runtime-main.6d43faa6.js",
-    "runtime-main.js.map": "/RichardOmbrog/TodoApp.git/static/js/runtime-main.6d43faa6.js.map",
-    "static/css/2.383c0125.chunk.css": "/RichardOmbrog/TodoApp.git/static/css/2.383c0125.chunk.css",
-    "static/js/2.cd70fa62.chunk.js": "/RichardOmbrog/TodoApp.git/static/js/2.cd70fa62.chunk.js",
-    "static/js/2.cd70fa62.chunk.js.map": "/RichardOmbrog/TodoApp.git/static/js/2.cd70fa62.chunk.js.map",
-    "index.html": "/RichardOmbrog/TodoApp.git/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/RichardOmbrog/TodoApp.git/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.08437b8e.chunk.css.map": "/RichardOmbrog/TodoApp.git/static/css/main.08437b8e.chunk.css.map",
-    "static/js/2.cd70fa62.chunk.js.LICENSE.txt": "/RichardOmbrog/TodoApp.git/static/js/2.cd70fa62.chunk.js.LICENSE.txt"
+    "main.css": "/RichardOmbrog.io/TodoApp/static/css/main.08437b8e.chunk.css",
+    "main.js": "/RichardOmbrog.io/TodoApp/static/js/main.8ff614d7.chunk.js",
+    "main.js.map": "/RichardOmbrog.io/TodoApp/static/js/main.8ff614d7.chunk.js.map",
+    "runtime-main.js": "/RichardOmbrog.io/TodoApp/static/js/runtime-main.93438ae2.js",
+    "runtime-main.js.map": "/RichardOmbrog.io/TodoApp/static/js/runtime-main.93438ae2.js.map",
+    "static/css/2.383c0125.chunk.css": "/RichardOmbrog.io/TodoApp/static/css/2.383c0125.chunk.css",
+    "static/js/2.cd70fa62.chunk.js": "/RichardOmbrog.io/TodoApp/static/js/2.cd70fa62.chunk.js",
+    "static/js/2.cd70fa62.chunk.js.map": "/RichardOmbrog.io/TodoApp/static/js/2.cd70fa62.chunk.js.map",
+    "index.html": "/RichardOmbrog.io/TodoApp/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/RichardOmbrog.io/TodoApp/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.08437b8e.chunk.css.map": "/RichardOmbrog.io/TodoApp/static/css/main.08437b8e.chunk.css.map",
+    "static/js/2.cd70fa62.chunk.js.LICENSE.txt": "/RichardOmbrog.io/TodoApp/static/js/2.cd70fa62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d43faa6.js",
+    "static/js/runtime-main.93438ae2.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.cd70fa62.chunk.js",
     "static/css/main.08437b8e.chunk.css",
