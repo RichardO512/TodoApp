@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,700&display=swap" rel="stylesheet">
     
-    <title>React App</title>
+    <title>Todo List</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -46,11 +46,6 @@
   <script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js" crossorigin></script>
 
   <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js" crossorigin></script>
-  app.use(express.static(path.join(__dirname, 'build')));
 
-  -app.get('/', function (req, res) {
-  +app.get('/*', function (req, res) {
-     res.sendFile(path.join(__dirname, 'build', 'index.html'));
-   });
 </body>
 </html>
