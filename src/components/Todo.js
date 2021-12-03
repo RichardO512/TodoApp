@@ -25,11 +25,8 @@ const Todo = (props) => {
     return (
         <div className={`todo__container p-3  ${props.data.completed ? "completed" : ""}`}>
             <div className="d-flex justify-content-between align-items-center">
-                <div className="">
                     <p className="m-0">{props.date}</p>
                     <p className="todo__content">{props.todo}</p>
-                </div>
-
                 <div className="">
                 <button onClick = {completeHandler} className = "btn btn-success btn-sm mx-1"><i className="fas fa-check"></i></button>
                 <button onClick = {deleteHandler} className = "btn btn-danger btn-sm "><i className="fas fa-trash"></i></button>
